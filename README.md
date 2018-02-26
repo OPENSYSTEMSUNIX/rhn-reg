@@ -1,8 +1,9 @@
 # rhn-reg
 
 ### variables
-
-`username:`
-`password:` 
-`server_url:` 
-`activationkey:`
+| variable | value |
+|-----------------|-|
+|`username:`      | |
+|`password:`      | |
+|`server_url:`    | |
+|`activationkey:` | |
