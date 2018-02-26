@@ -1,0 +1,6 @@
+---
+# defaults file for rhn-reg
+    username: api_user
+    password: somepass
+    server_url: http://sa1x-spacewalk-p1.harlandclarke.local/XMLRPC
+    activationkey: 1-el7-x86_64

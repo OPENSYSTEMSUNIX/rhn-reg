@@ -1,0 +1,9 @@
+---
+# tasks file for rhn-reg
+- name: RHEL7 | Register to RHN
+  rhn_register:
+    state: present
+    username: "{{ api_user }}"
+    password: "{{ password }}"
+    server_url: "{{ server_url }}"
+    activationkey: "{{ activationkey }}"
